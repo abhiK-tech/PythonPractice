@@ -1,5 +1,5 @@
-num1 = int(input("enter first number:")) 
-num2 = int(input("enter second number:"))
+num1 = 10
+num2 = 20
 
 sum_of_number = num1 + num2
 
