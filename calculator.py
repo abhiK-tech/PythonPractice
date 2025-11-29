@@ -1,5 +1,7 @@
-num1 = 10
-num2 = 20
+import sys
+
+num1 = int(sys.argv[1])
+num2 = int(sys.argv[2])
 
 sum_of_number = num1 + num2
 
